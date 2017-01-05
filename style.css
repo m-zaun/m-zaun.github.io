@@ -1,10 +1,28 @@
 body {
   font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: =700;
+  font-weight: 300;
   background-image: url(linepaper.png);
   background-repeat: repeat;
 }
 #wrapper {
-  width: 960px;
+  width: 1200px;
   margin: 20px auto 20px auto;
+}
+h1{
+  color: #c795e4;
+}
+h2{
+  color: #c795e4;
+}
+h3 {
+  color: #c795e4;
+}
+h4{
+  color: #c795e4;
+}
+#summary {
+    color: #c795e4;
+}
+.skills-and-hobbies {
+  color: #c795e4;
 }

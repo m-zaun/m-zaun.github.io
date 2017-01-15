@@ -27,6 +27,10 @@
   font-family: 'Cormorant Garamond', serif;
   text-align: center;
 }
+.aboutheader {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+}
 .contactp {
   font-family: 'Cormorant Garamond', serif;
   text-align: center;
@@ -54,26 +58,26 @@
     transform: translate(-50%, -50%);
   }
 .mid p1 {
-      font-family: 'Cormorant Garamond', serif;
-      font-weight: 1200;
-      color: white;
-      text-transform: uppercase;
-      margin: 0;
-      position: absolute;
-      top: 75%;
-      left: 50%;
-      font-size: 2rem;
-      transform: translate(-50%, -50%);
-    }
-    .mid p2 {
-          font-family: 'Cormorant Garamond', serif;
-          font-weight: 1200;
-          color: white;
-          text-transform: uppercase;
-          margin: 0;
-          position: absolute;
-          top: 150%;
-          left: 50%;
-          font-size: 2rem;
-          transform: translate(-50%, -50%);
-        }
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 1200;
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    font-size: 2rem;
+    transform: translate(-50%, -50%);
+  }
+.mid p2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 1200;
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    font-size: 2rem;
+    transform: translate(-50%, -50%);
+  }

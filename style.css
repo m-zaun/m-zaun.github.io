@@ -1,5 +1,9 @@
 .btn-style {
   background-color: Transparent;
+  border-color: #ffffff;
+}
+.linkfont {
+  color: #ffffff;
 }
 .item {
   color: #ffffff;
@@ -7,3 +11,69 @@
 .item active {
     color: #ffffff;
 }
+.header {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+}
+.navbar {
+  font-family: 'Cormorant Garamond', serif;
+}
+.carousel-caption {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 40px;
+  color: #FFFFFF;
+}
+.contactheader {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+}
+.contactp {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+}
+.contactbutton {
+  font-family: 'Cormorant Garamond', serif;
+  background-color: Transparent;
+  border-color: Transparent;
+  position: center
+}
+#submission {
+  text-align: center;
+  }
+
+.mid h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 1200;
+    color: white;
+    text-transform: uppercase;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 6rem;
+    transform: translate(-50%, -50%);
+  }
+.mid p1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 1200;
+      color: white;
+      text-transform: uppercase;
+      margin: 0;
+      position: absolute;
+      top: 75%;
+      left: 50%;
+      font-size: 2rem;
+      transform: translate(-50%, -50%);
+    }
+    .mid p2 {
+          font-family: 'Cormorant Garamond', serif;
+          font-weight: 1200;
+          color: white;
+          text-transform: uppercase;
+          margin: 0;
+          position: absolute;
+          top: 150%;
+          left: 50%;
+          font-size: 2rem;
+          transform: translate(-50%, -50%);
+        }

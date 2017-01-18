@@ -31,6 +31,15 @@
   font-family: 'Cormorant Garamond', serif;
   text-align: center;
 }
+.abouthead {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: justify;
+}
+.aboutlist {
+  font-family: 'Cormorant Garamond', serif;
+  text-align: center;
+  font-size: 2rem;
+}
 .contactp {
   font-family: 'Cormorant Garamond', serif;
   text-align: center;

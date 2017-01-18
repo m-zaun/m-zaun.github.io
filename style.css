@@ -54,42 +54,41 @@
   text-align: center;
   }
 
-.mid h2 {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight: 1200;
-    color: white;
-    text-transform: uppercase;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    font-size: 2rem;
-    transform: translate(-50%, -50%);
+.imagecontact {
+     position: relative;
+     width: 100%; /* for IE 6 */
   }
-.mid p1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight: 1200;
-    color: white;
-    text-transform: uppercase;
-    margin: 0;
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    font-size: 2rem;
-    transform: translate(-50%, -50%);
-  }
-.mid p2 {
-    font-family: 'Cormorant Garamond', serif;
-    font-weight: 1200;
-    color: white;
-    text-transform: uppercase;
-    margin: 0;
-    position: absolute;
-    top: 150%;
-    left: 50%;
-    font-size: 2rem;
-    transform: translate(-50%, -50%);
-  }
-  .table {
 
+h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 1200;
+    color: white;
+    font-size: 3rem;
+    position: absolute;
+    text-align: center;
+    top: 115px;
+    left: 0;
+    width: 100%;
+  }
+  h4 {
+      font-family: 'Cormorant Garamond', serif;
+      font-weight: 1200;
+      color: white;
+      font-size: 2rem;
+       position: absolute;
+       text-align: center;
+       top: 200px;
+       left: 0;
+       width: 100%;
+    }
+
+p2{
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 1200;
+  color: white;
+  position: absolute;
+  font-size: 2rem;
+  top: 250px;
+  left: 0;
+  width: 100%;
   }
